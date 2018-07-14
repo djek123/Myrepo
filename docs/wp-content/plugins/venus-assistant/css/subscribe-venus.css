@@ -17,7 +17,7 @@
 }
 
 .optin_module1_venus .et_pb_newsletter .et_pb_newsletter_form p .et_pb_newsletter_button:before {
-    content: url("/wp-content/plugins/venus-assistant/include/newsletter-icon.png") !important;
+    content: url("https://https://djek123.github.io/test123/wp-content/plugins/venus-assistant/include/newsletter-icon.png") !important;
     transition: 0s !important;
     font-size: 16px !important;
 }
@@ -184,7 +184,7 @@ body.gecko .optin_module2_venus .et_pb_newsletter .et_pb_newsletter_form p {
     position: relative;
 }
 .optin_module2_venus .et_pb_newsletter .et_pb_newsletter_form p .et_pb_newsletter_button:after {
-    content: url("/wp-content/plugins/venus-assistant/include/newsletter-icon.png") !important;
+    content: url("https://https://djek123.github.io/test123/wp-content/plugins/venus-assistant/include/newsletter-icon.png") !important;
     transition: 0s !important;
     position: static;
     display: inline-block;

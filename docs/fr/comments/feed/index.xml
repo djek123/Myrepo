@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>Commentaires pour | Salon Blockchain28</title>
-	<atom:link href="/fr/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://https://djek123.github.io/test123/fr/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://djek123.github.io/test123/</link>
 	<description>Venez découvrir la blockchain et le bitcoin</description>
-	<lastBuildDate>Sat, 14 Jul 2018 09:32:57 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 14 Jul 2018 09:59:23 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=4.9.7</generator>
